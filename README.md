@@ -8,6 +8,6 @@ Hi there 👋
 - 👯 I’m looking to collaborate on create Web Pages.
 - 💬 Ask me about Web development.
 - 📫 How to reach me: cindyk.20@hotmail.com / cindyyazan.20@gmail.com
-- <!--😄 Pronouns: ...
+ <!--😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-- <!--🤔 I’m looking for help with ...-->
+ <!--🤔 I’m looking for help with ...-->
