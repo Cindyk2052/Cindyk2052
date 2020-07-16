@@ -6,9 +6,8 @@ Hi there 👋
 - 🔭 I’m currently working on basic programs in C++.
 - 🌱 I’m currently learning C++, Phyton languages and web applications.
 - 👯 I’m looking to collaborate on create Web Pages.
-- <!--🤔 I’m looking for help with ...-->
 - 💬 Ask me about Web development.
 - 📫 How to reach me: cindyk.20@hotmail.com / cindyyazan.20@gmail.com
 - <!--😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-
+- <!--🤔 I’m looking for help with ...-->
